@@ -1,12 +1,13 @@
-# ResNet18D-Family  
+# ResNet18D Family  
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 10px;">  
     <img src="https://img.shields.io/github/license/AliKHaliliT/ResNet18D-Family" alt="License">  
     <img src="https://img.shields.io/github/last-commit/AliKHaliliT/ResNet18D-Family" alt="Last Commit">  
     <img src="https://img.shields.io/github/issues/AliKHaliliT/ResNet18D-Family" alt="Open Issues">  
-</div>  
+</div>
+<br/>
 
-This repository provides links to various custom-improved variants of the ResNet18 architecture. These models incorporate enhancements aimed at boosting performance and efficiency for different tasks.  
+This repository provides links to custom-improved variants of the ResNet18 architecture. These models incorporate enhancements aimed at boosting performance and efficiency for different tasks.  
 
 The modifications build upon techniques from the paper ["Bag of Tricks for Image Classification with Convolutional Neural Networks"](https://arxiv.org/abs/1812.01187), along with additional optimizations and personal refinements.  
 
